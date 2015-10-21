@@ -32,3 +32,9 @@ Ok, so before I leave to my house, I want to make a final test. I'll add this to
 This is something to try if it works to clone a repo and then just push it
 
 ### 211015 15:31
+
+# 6: IT WORKS. 
+
+You can just clone a repo and then push changes in to it.
+
+### 211015 15:33
