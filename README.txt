@@ -20,3 +20,9 @@ So this is the second addition. Hopefully I'll make it! :D
 Remeber to send all your changes to the index by doing a "git add -A" or "git add ." and "git add -u". Then, you have to commit them with -git commit -m "comment"-
 
 ### Third addition, 211015 12:16
+
+#FOURTH ADDITION
+
+Ok, so before I leave to my house, I want to make a final test. I'll add this to the index, and then I will commit it, so finally I can push it.
+
+### Fourth addition 211015 12:17
