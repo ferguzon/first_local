@@ -8,3 +8,7 @@ So this is my first local file. My goal is simple:
 4) Merge those changes in the original Github project
 
 FIRST ADDITION 0705PM
+
+So this is the second addition. Hopefully I'll make it! :D
+
+211015
