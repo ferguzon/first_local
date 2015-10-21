@@ -1,4 +1,4 @@
-ORIGINAL README FILE
+# ORIGINAL README FILE
 
 So this is my first local file. My goal is simple:
 
@@ -7,8 +7,16 @@ So this is my first local file. My goal is simple:
 3) Change the Readme file in the fork
 4) Merge those changes in the original Github project
 
-FIRST ADDITION 0705PM
+###FIRST ADDITION 0705PM
+
+#SECOND ADDITION
 
 So this is the second addition. Hopefully I'll make it! :D
 
-211015
+###SECOND ADDITION 211015
+
+#THIRD ADDITION
+
+Remeber to send all your changes to the index by doing a "git add -A" or "git add ." and "git add -u". Then, you have to commit them with -git commit -m "comment"-
+
+### Third addition, 211015 12:16
