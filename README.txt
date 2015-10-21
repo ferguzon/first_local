@@ -26,3 +26,9 @@ Remeber to send all your changes to the index by doing a "git add -A" or "git ad
 Ok, so before I leave to my house, I want to make a final test. I'll add this to the index, and then I will commit it, so finally I can push it.
 
 ### Fourth addition 211015 12:17
+
+#5TH ADDITION
+
+This is something to try if it works to clone a repo and then just push it
+
+### 211015 15:31
